@@ -1,7 +1,7 @@
 # Best-Table-Topic-Speaker-Award
 
 This repository contains my award for Best Table Topic Speaker by Toastmaters Club, Ananthapuri.  
-They are uploaded here only for **verification and portfolio purposes**.
+Certificate is uploaded here only for **verification and portfolio purposes**.
 
 ## Rights & Usage
 - All certificates are the **intellectual property of the issuing organizations**.  
